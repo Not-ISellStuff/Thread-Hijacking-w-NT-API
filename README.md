@@ -9,4 +9,4 @@ i just made this cuz i havent worked with this type of stuff in a while so i ref
 
 # Compile
 
-gcc -o injector.exe hijack.c loader.c main.c target.c -lntdll -lws2_32 -lkernel32
+gcc -o hijack.exe hijack.c loader.c main.c target.c -lntdll -lws2_32 -lkernel32
