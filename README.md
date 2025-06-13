@@ -1,5 +1,5 @@
 # Thread-Hijacking
-Shell Code Injection in C made to find a running process from a specific list and allocates and writes memory to the process then hijacks the thread making it execute the shell code
+Shell Code Injection in C made to find a running process from a specific list and allocates and writes memory to the process then hijacks the thread making it execute the shell code using the native api (nt.dll)
 
 Works for both 32 and 64 bit windows systems
 
