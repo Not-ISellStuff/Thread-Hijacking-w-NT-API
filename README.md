@@ -7,8 +7,8 @@ btw idek if this is 100% working I just made sure it compiled and ran
 
 i just made this cuz i havent worked with this type of stuff in a while so i refreshed my memory by writing this
 
-Virustotal Scan: https://www.virustotal.com/gui/file/7fe013ea6deaaf2d263b3fae862bcf6dbc5a76795253bf77608ac730d913cbd0?nocache=1
-
 # Compile
 
 gcc -o hijack.exe hijack.c loader.c main.c target.c -lntdll -lws2_32 -lkernel32
+
+# Virus Total Scan
