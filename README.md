@@ -12,3 +12,5 @@ i just made this cuz i havent worked with this type of stuff in a while so i ref
 gcc -o hijack.exe hijack.c loader.c main.c target.c -lntdll -lws2_32 -lkernel32
 
 # Virus Total Scan
+
+![image](https://github.com/user-attachments/assets/e06ed9d8-b8b6-48b4-a6c9-39eab91b0144)
